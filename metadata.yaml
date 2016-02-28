@@ -1,0 +1,27 @@
+_repo: Town-and-Country-Or-Life-at-Home-and-Abroad-Without-and-Within-Us_4669
+creator:
+  author:
+    agent_name: Adams, John S. (John Stowell)
+    aliases:
+    - Adams, J. S. (John Stowell)
+    - Adams, John Stowell
+    deathdate: 1893
+    gutenberg_agent_id: '1539'
+    url: http://www.gutenberg.org/2009/agents/1539
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'American poetry -- 19th century'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'United States -- Social life and customs -- Poetry'
+- !lcc 'PS'
+title: Town and Country; Or, Life at Home and Abroad, Without and Within Us
+url: http://www.gutenberg.org/ebooks/4669
