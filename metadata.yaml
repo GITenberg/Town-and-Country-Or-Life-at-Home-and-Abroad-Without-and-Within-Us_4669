@@ -1,5 +1,5 @@
 _repo: Town-and-Country-Or-Life-at-Home-and-Abroad-Without-and-Within-Us_4669
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcsh 'United States -- Social life and customs -- Fiction'
 - !lcsh 'United States -- Social life and customs -- Poetry'
 - !lcc 'PS'
+- GITenberg
 title: Town and Country; Or, Life at Home and Abroad, Without and Within Us
 url: http://www.gutenberg.org/ebooks/4669
